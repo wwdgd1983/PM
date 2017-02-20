@@ -2,13 +2,20 @@
 
 ####  产品的视角
 > Written with [StackEdit](https://stackedit.io/).
-
+##booklist
++ 产品的视角从热闹到门道 
++ 
 从俞军的访谈看产品经理的内容
 HTTP Cache 理解 
 产品经理的技能
 领域驱动设计---> 微服务设计
 敏捷迭代下 User Story Mapping的使用 
+Customer Journey Mapping 顾客旅程地图
+[初学者的用户地图](https://blog.akanelee.me/posts/216581-diy-user-experience-map/)
 同理心 、好奇心 、
+撰写blog---https://www.farbox.com/
+FYI ：  [farbox.com 上手指南 - Jammy Life](www.geektu.com/post/2013-01-09-farbox-shang-shou-zhi-nan)
+http://www.geektu.com/post/2013-01-09-farbox-shang-shou-zhi-nan
 http://agiledon.github.io/
 https://yq.aliyun.com/articles/53436
 https://yq.aliyun.com/articles/44722?spm=5176.100239.blogcont53436.9.m3XMN5
