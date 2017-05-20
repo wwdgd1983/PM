@@ -19,6 +19,7 @@
  7. 朝夕日历
  8. MLO2
  9. Orgzly
+ 10.Doit.im  -- Account Information
 
 
 + Mind Mapping
@@ -27,6 +28,7 @@
  3. Mindly
 
 + Note 
+
  1. 有道云笔记
  2. Evernote
  3. Onenote
