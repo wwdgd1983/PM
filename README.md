@@ -18,17 +18,26 @@
  6. habitica
  7. 朝夕日历
  8. MLO2
+ 9. Orgzly
 
 
-+ MindMap
-
++ Mind Mapping
+ 1. XMIND
+ 2. FreeMind
+ 3. Mindly
 
 + Note 
-1.有道云笔记
-2.Evernote
-3.Onenote
-
+ 1. 有道云笔记
+ 2. Evernote
+ 3. Onenote
+ 4. Journey
+ 5. 锤子便签
+ 6. 魅族便签 
+ 
 + Picture Collection Or Others
-  1.花瓣
-  2.Pinterest
-  3.Lofter
+  1. 花瓣
+  2. Pinterest
+  3. Lofter
+
++ To do list 
+  1. Clear
