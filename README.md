@@ -10,11 +10,11 @@
  5.
  
 + GTD
-1.Doit.im
-2.things
-3.Dynalist
-4.幕布
-5.workflowy.com
+1. Doit.im
+2. things
+3. Dynalist
+4. 幕布
+5. workflowy.com
 
 
 + Note 
