@@ -3,11 +3,12 @@
 
 #常用工具#
 + Markdown Editor 
-  1. Stack Edit 
+  1.Stack Edit 
   2. prose.io
   3. CMD Markdown
   4. 简书
   5. Zine
+
  
 + GTD
   1. Stack Edit 
