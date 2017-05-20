@@ -17,8 +17,8 @@
   8. Excel如何利用数组公式提取区域中的重复值
   9. countif函数出现重复 用数组公式生成不重
   10. [数组公式创建无重复项的数据有效性下拉列表](http://www.excel123.cn/Article/excelhanshu/201104/854.html)
-  11.=COUNTIF(A2:C2,D2:F2)可以分解成｛COUNTIF(A2:C2,D2)，COUNTIF(A2:C2,E2)，COUNTIF(A2:C2,F2)｝这样的一个组合
-  12.
+  11. =COUNTIF(A2:C2,D2:F2)可以分解成｛COUNTIF(A2:C2,D2)，COUNTIF(A2:C2,E2)，COUNTIF(A2:C2,F2)｝这样的一个组合
+  12. [Countif 高能使用]（http://chuansong.me/n/1735634242313）
 
 > We loved with a love that was more than love
 > 用数组公式生成不重复的随机整数列
