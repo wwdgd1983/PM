@@ -14,7 +14,9 @@
   5. Index 函数 
   6. 理解函数 =INDEX($A$2:$A$21,MATCH(0,COUNTIF($B$1:B1,$A$2:$A$21),0))
   7. Ctrl+Shift+Enter 
-  8.
+  8.Excel如何利用数组公式提取区域中的重复值
+  9.countif函数出现重复 用数组公式生成不重
+  10.[数组公式创建无重复项的数据有效性下拉列表](http://www.excel123.cn/Article/excelhanshu/201104/854.html)
   
 
 > We loved with a love that was more than love
